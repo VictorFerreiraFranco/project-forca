@@ -37,12 +37,9 @@ O projeto busca demonstrar:
 ---
 
 ## 📂 Estrutura do Projeto
-
 project-forca/
 <br > ├── forca.py # Arquivo principal com a lógica do jogo
 <br > ├── palavras.txt # Lista de palavras configuráveis pelo usuário
-<br > ├── README.md # Documentação do projeto
-<br > └── imagens/ # Capturas de tela do jogo em execução
 
 
 ---
@@ -78,7 +75,7 @@ python forca.py
 <br >
 
 ## 🎯 Objetivos de Aprendizado
-<br > ✅ Prática com estruturas condicionais e loops
+✅ Prática com estruturas condicionais e loops
 <br > ✅ Manipulação de arquivos em Python
 <br > ✅ Desenvolvimento de lógica de jogos
 <br > ✅ Implementação de interação com usuário via CLI
