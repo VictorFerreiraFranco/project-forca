@@ -39,10 +39,10 @@ O projeto busca demonstrar:
 ## 📂 Estrutura do Projeto
 
 project-forca/
-├── forca.py # Arquivo principal com a lógica do jogo
-├── palavras.txt # Lista de palavras configuráveis pelo usuário
-├── README.md # Documentação do projeto
-└── imagens/ # Capturas de tela do jogo em execução
+<br > ├── forca.py # Arquivo principal com a lógica do jogo
+<br > ├── palavras.txt # Lista de palavras configuráveis pelo usuário
+<br > ├── README.md # Documentação do projeto
+<br > └── imagens/ # Capturas de tela do jogo em execução
 
 
 ---
@@ -74,20 +74,23 @@ python forca.py
 
 ## ⚙️ Personalização
 📄 Edite o arquivo palavras.txt para alterar as palavras do jogo.
-
 🎨 Modifique a lógica para alterar o número máximo de tentativas ou o estilo do desenho.
+<br >
 
 ## 🎯 Objetivos de Aprendizado
-✅ Prática com estruturas condicionais e loops
-✅ Manipulação de arquivos em Python
-✅ Desenvolvimento de lógica de jogos
-✅ Implementação de interação com usuário via CLI
+<br > ✅ Prática com estruturas condicionais e loops
+<br > ✅ Manipulação de arquivos em Python
+<br > ✅ Desenvolvimento de lógica de jogos
+<br > ✅ Implementação de interação com usuário via CLI
+<br >
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para forkar o projeto, propor melhorias ou sugerir novas funcionalidades.
+<br >
 
 ## 📄 Licença
 Este projeto está sob a licença MIT — consulte o arquivo LICENSE para mais detalhes.
+<br >
 
 ## 👨‍💻 Autor
 Desenvolvido com 💻 e ☕ por Victor Volts
