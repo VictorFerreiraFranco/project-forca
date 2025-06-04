@@ -90,4 +90,4 @@ Este projeto está sob a licença MIT — consulte o arquivo LICENSE para mais d
 <br >
 
 ## 👨‍💻 Autor
-Desenvolvido com 💻 e ☕ por Victor Volts
+Desenvolvido com 💻 e ☕ por Victor Ferreira Franco
